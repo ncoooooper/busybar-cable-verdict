@@ -1,7 +1,7 @@
 {
   "name": "busybar-cable-verdict",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compare the negotiated Mac power adapter profile to your expected wattage and read battery charge.",
   "author": "ncoooooper",
   "type": "module",

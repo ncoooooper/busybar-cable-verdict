@@ -4,6 +4,20 @@ Compare the negotiated Mac power adapter profile to your expected wattage and re
 
 Use the Mac’s reported power profile to compare two chargers or docks. Seeing the negotiated watts beside the battery percentage helps explain why a full battery can coexist with an unexpectedly low power profile.
 
+## Screen transitions
+
+Read one power path, then the next. The voltage and charging information follow the selection.
+
+![Cable Verdict front display. Read one power path, then the next. The voltage and charging information follow the selection.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Cable Verdict rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Check a charger against its label
 
 1. Set `expected_watts` to the rating you want to compare, then connect the Mac to the adapter or dock.
@@ -42,6 +56,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
