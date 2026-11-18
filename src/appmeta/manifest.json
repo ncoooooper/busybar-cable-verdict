@@ -4,6 +4,6 @@
   "name": "Cable Verdict",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Cable Verdict",
+  "description": "Compare the negotiated Mac power adapter profile to your expected wattage and read battery charge.",
   "author": "ncoooooper"
 }

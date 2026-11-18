@@ -1,0 +1,6 @@
+{
+  "category": "utilities",
+  "short_description": "Compare the negotiated Mac power adapter profile to your expected wattage and read battery charge.",
+  "description": "Compare the negotiated Mac power adapter profile to your expected wattage and read battery charge. On a Mac laptop, choose the expected adapter wattage in the configuration. The bridge reads AppleSmartBattery from I/O Registry and battery percent from pmset. Watts refer to the adapter profile reported by macOS, not the instantaneous battery charging current. A disconnected or unreported adapter displays --. Browse to the second page for the battery.",
+  "changelog": "First public version."
+}
