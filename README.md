@@ -22,7 +22,7 @@ Use the Mac’s reported power profile to compare two chargers or docks. Seeing 
 
 ## Example from the emulator
 
-The example configuration expects 67 W. The front recording shows the profile supplied by this Mac, while the next page shows the battery charge reported by `pmset`. Actual local macOS ioreg and pmset output.
+The example configuration expects 67 W. The front recording shows the profile supplied by this Mac, while the next page shows the battery charge reported by `pmset`. The recording used this Mac’s own I/O Registry and `pmset` readings.
 
 ## Set up the source
 
