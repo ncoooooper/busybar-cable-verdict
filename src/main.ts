@@ -5,10 +5,6 @@ instrument({
   "primary": "Cable Verdict",
   "accent": "#8CD69B",
   "cadence": 12000,
-  "motion": {
-    "motif": "cells",
-    "color": "#8CD69B",
-    "shine": "#FFF2D6"
-  },
+  "motion": {enabled:false},
   "setup": "Start companion/serve.py"
 });

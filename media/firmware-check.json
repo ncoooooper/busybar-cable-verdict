@@ -10,7 +10,7 @@
   "frames": 54,
   "distinct_frames": 12,
   "exit": "App io.ncoooooper.cableverdict exited: finished; heap peak 81.8 of 128 KiB",
-  "sha256": "0c8dfcce39c719e243fe37aef4d15596e770c7c6c3a5d1b4a5c1809427957640",
+  "sha256": "58293c4b48608ce548ff90afc58dc39b5ee280000f5b3d79aced70cfef76a5a9",
   "pages": [
     {
       "caption": "USB-C PROFILE",
@@ -54,9 +54,9 @@
     ],
     "frames": 128,
     "distinct_by_flow": [
-      7,
-      11
+      2,
+      2
     ],
-    "exit": "App io.btype.cableverdict exited: finished; heap peak 87.1 of 128 KiB"
+    "exit": "App io.btype.cableverdict exited: finished; heap peak 85.6 of 128 KiB"
   }
 }
